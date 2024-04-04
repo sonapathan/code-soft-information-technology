@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(230, 194, 151);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    
+    text-align: center;
+}
+.text-shadow{
+    text-shadow: 1px 1px 2px rgb(230, 194, 151) ,
+    0 0 1rem rgba(168, 168, 198, 0.837),
+    0 0 0.2rem rgba(108, 108, 177, 0.814);
+    color: black;
+    font: white;
+}
+p{
+
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    color: blueviolet;
+}
